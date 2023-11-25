@@ -1,0 +1,471 @@
+@media only screen and (max-width: 575px) {
+
+    .all {
+        width: 575px;
+        height: 100%;
+        margin: auto;
+        background: #ffffff;
+    }
+
+    .menu {
+        width: 575px;
+        height: 40px;
+        background: #191919;
+    }
+
+    .l_img {
+        width: 80px;
+        height: 26px;
+        margin: auto;
+        margin-left: 25px;
+        padding-top: 8px;
+    }
+
+    .logo {
+        margin: 0px auto;
+
+    }
+
+    .star {
+        margin: 0px auto;
+        margin-top: -27px;
+
+    }
+
+    .s_img {
+        width: 70px;
+        height: 12px;
+        margin: auto;
+        float: right;
+        margin-right: 55px;
+    }
+
+    .main {
+        width: 575px;
+        height: 200px;
+        background-size: 100%;
+        margin-top: -5px;
+    }
+
+    .m_img {
+        max-width: 100%;
+    }
+
+    .content {
+        width: 550px;
+        height: 9680px;
+        margin: auto;
+        margin-top: 40px;
+    }
+
+    .title {
+        width: 545px;
+        height: 60px;
+        color: #232323;
+        font-family: 'Segoe UI';
+        font-size: 34px;
+        font-style: normal;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    .one {
+        width: 550px;
+        height: 300px;
+    }
+
+   
+    .title1 {
+
+        color: #002142;
+        font-family: 'Segoe UI';
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 30px;
+        letter-spacing: 0.25px;
+
+    }
+
+    .one1_1 {
+        width: 550px;
+        height: 130px;
+        color: #002142;
+        font-family: 'Segoe UI';
+        font-size: 13px;
+        font-style: normal;
+        line-height: 18px;
+        margin-top: 6px;
+    }
+
+ .margin {
+            float: none;
+            margin-top: 30px;
+        }
+
+
+    .two {
+        width: 550px;
+        height: 700px;
+        margin-top: 10px;
+    }
+
+    .title2 {
+
+        font-family: 'Segoe UI';
+        color: #003265;
+        margin-top: 12px;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 25px;
+        width: 550px;
+
+    }
+
+    .two1 {
+
+        color: #002142;
+        font-family: 'Segoe UI';
+        font-size: 14px;
+        font-style: normal;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+
+    .three {
+        width: 550px;
+        height: 160px;
+    }
+
+    .four {
+        height: 255px;
+        width: 576px;
+    }
+
+    .fife {
+        height: 975px;
+        width: 550px;
+    }
+
+    .six {
+        height: 170px;
+        width: 550px;}
+    
+
+    .seven {
+        height: 800px;
+        width: 550px;
+    }
+
+    .eight {
+        height: 993px;
+        width: 550px;
+    }
+
+        .eight1 {
+            height: 380px;
+            width: 550px;
+        }
+    
+        .eight2 {
+            height: 550px;
+            width: 550px;
+            float: none;
+            margin-top: 10px;
+        }
+
+    .nine {
+        height: 385px;
+        width: 550px;
+    }
+
+
+    .title3 {
+        width: 550px;
+        color: #003265;
+        font-family: 'Segoe UI';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 22px;
+        margin-top: 0px;
+    }
+
+    .title4 {
+        color: #1B4876;
+        font-family: 'Segoe UI';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 22px;
+        width: 550px;
+        height: 80px;
+        margin-top: 20px;
+
+    }
+
+    .a {
+        width: 550px;
+        height: 330px;
+    }
+
+    .b {
+        width: 550px;
+        height: 60px;
+    }
+
+    .c {
+        width: 550px;
+        height: 150px;
+    }
+
+    .ten {
+        height: 220px;
+        width: 550px;
+    }
+
+
+    .tabl {
+        width: 550px;
+        height: 1120px;
+        margin-top: 30px;
+    }
+
+    .tabl1 {
+        width: 500px;
+        height: 120px;
+        padding-left: 40px;
+        padding-top: 35px;
+        border: 1px solid #919191;
+        color: #001F3E;
+        font-family: 'Segoe UI';
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 34px;
+    }
+
+    .tabl2 {
+        width: 560px;
+        height: 120px;
+        padding-left: 42px;
+        padding-top: 35px;
+        border: 1px solid #919191;
+        color: #001F3E;
+        font-family: 'Segoe UI';
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 34px;
+        float: left;
+        margin-left: 542px;
+        margin-top: -158px;
+    }
+
+    .tabl3 {
+        width: 387px;
+        height: 120px;
+        padding-left: 65px;
+        padding-top: 35px;
+        border: 1px solid #919191;
+        color: #001F3E;
+        font-family: 'Segoe UI';
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 34px;
+        float: right;
+        margin-top: -158px;
+    }
+
+    .d {
+        font-weight: 500;
+        font-size: 28px;
+    }
+
+    .eleven {
+        margin-top: 22px;
+        width: 550px;
+        height: 822px
+    }
+
+    .eleven1 {
+        width: 550px;
+        height: 230px;
+    }
+
+    .e {
+        width: 550px;
+        height: 110px;
+    }
+
+    .eleven2 {
+        width: 550px;
+        height: 260px;
+        float: none;
+        margin-top: 10px;
+    }
+
+    .twelve {
+
+        width: 550px;
+        height: 190px
+    }
+
+    .thirteen {
+        width: 550px;
+        height: 370px
+    }
+
+    .table_2 {
+        height: 2720px;
+        width: 550px;
+        margin-top: 30px;
+
+        background: #232323;
+    }
+
+    .fourteen {
+        width: 550px;
+        height: 185px
+    }
+
+    .fifteen {
+        width: 550px;
+        height: 105px
+    }
+
+    .sixteen {
+        width: 550px;
+        height: 140px
+    }
+
+    .seventeen {
+        width: 550px;
+        height: 200px
+    }
+
+    .eightteen {
+        width: 550px;
+        height: 120px
+    }
+
+    .footer {
+        background-size: 100%;
+        width: 1920px;
+        height: 430px;
+    }
+
+    .f_img {
+        height: 430px;
+        width: 1920px
+    }
+
+
+
+    .fife2 {
+        width: 700px;
+        height: 100px;
+        margin-left: 163px;
+        margin-top: -480px;
+
+    }
+
+    .footer {
+        background-size: 100%;
+        width: 575px;
+        height: 120px;
+
+    }
+
+    .f_img {
+        height: 120px;
+        width: 575px;
+
+
+    }
+
+
+
+
+    .fife2 {
+        width: 240px;
+        height: 80px;
+        margin-left: 12px;
+        margin-top: -185px;
+    }
+
+    .fife_text1 {
+        width: 997px;
+        height: 100px;
+        color: #000;
+        font-family: 'Segoe UI';
+        font-size: 24px;
+        font-style: normal;
+        line-height: 66px;
+
+    }
+
+    .fife_text2 {
+        width: 240px;
+        height: 80px;
+        color: #000;
+        font-family: 'Segoe UI';
+        font-size: 11px;
+        font-style: normal;
+        line-height: 16px;
+    }
+
+    .footer1 {
+
+        width: 300px;
+        height: 25px;
+        margin-top: -74px;
+        float: right;
+        margin-right: 20px;
+        position: relative;
+
+    }
+
+    .privacypolicy {
+        font-family: 'Segoe UI';
+        width: 120px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: left;
+        color: #FFF;
+    }
+
+
+
+    .termsconditions {
+        font-family: 'Segoe UI';
+        width: 170px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: right;
+        color: #FFF;
+    }
+
+    .l_img1 {
+        width: 70px;
+        height: 23px;
+        margin: auto;
+        margin-left: 13px;
+        padding-top: 66px;
+    }
+}
+
+.f {
+    margin-top: 6px;
+    margin-left: 14px;
+    color: #ffffff;
+    font-family: 'Segoe UI';
+    font-size: 6px;
+    font-style: normal;
+    line-height: 35px;
+
+}
