@@ -1,7 +1,7 @@
 @media only screen and (max-width: 575px) {
 
     .all {
-        width: 575px;
+        width: 525px;
         height: 100%;
         margin: auto;
         background: #ffffff;
@@ -41,7 +41,7 @@
     }
 
     .main {
-        width: 575px;
+        width: 525px;
         height: 200px;
         background-size: 100%;
         margin-top: -5px;
@@ -52,7 +52,7 @@
     }
 
 .content {
-    width: 550px;
+    width: 525px;
     height: 6610px;
     margin: auto;
     margin-top: 40px;
@@ -70,12 +70,12 @@
 }
 
 .one {
-    width: 550px;
+    width: 525px;
     height: 450px;
 }
 
 .one1 {
-    width: 550px;
+    width: 525px;
     height: 150px;
 }
 
@@ -92,7 +92,7 @@
 }
 
 .one1_1 {
-    width: 550px;
+    width: 525px;
     height: 260px;
     color: #002142;
     font-family: 'Segoe UI';
@@ -103,7 +103,7 @@
 }
 
 .one2 {
-    width: 550px;
+    width: 525px;
     height: 300px;
     color: #222E3A;
     font-family: 'Segoe UI';
@@ -116,7 +116,7 @@
 }
 
 .two {
-    width: 550px;
+    width: 525px;
     height: 860px;
     margin-top: 30px;
 }
@@ -130,7 +130,7 @@
     font-style: normal;
     font-weight: 600;
     line-height: 25px;
-    width: 550px;
+    width: 525px;
 
 }
 
@@ -145,61 +145,61 @@
 }
 
 .three {
-    width: 550px;
+    width: 525px;
     height: 390px;
 }
 
 .four {
     height: 250px;
-    width: 550px;
+    width: 525px;
 }
 
 .fife {
     height: 220px;
-    width: 550px;
+    width: 525px;
 }
 
 .six {
-    height: 100px;
-    width: 550px;
+    height: 130px;
+    width: 525px;
 }
 
 .seven {
-    height: 210px;
-    width: 550px;
+    height: 220px;
+    width: 525px;
 }
 
 .eight {
-    height: 450px;
-    width: 550px;
+    height: 480px;
+    width: 525px;
 }
 
 .nine {
-    height: 765px;
-    width: 550px;
+    height: 480px;
+    width: 525px;
 }
 
 .nine1 {
-    width: 550px;
-    height: 450px;
+    width: 525px;
+    height: 40px;
 }
 
 .nine2 {
     width: 730px;
-    height: 300px;
+    height: 330px;
     float: none;
     margin-top: 0px;
 }
 
 .title3 {
-    width: 550px;
+    width: 525px;
     color: #003265;
     font-family: 'Segoe UI';
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
     line-height: 22px;
-    margin-top: 0px;
+    margin-top: 12px;
 }
 
 .title4 {
@@ -209,30 +209,30 @@
     font-style: normal;
     font-weight: 500;
     line-height: 22px;
-    width: 550px;
-    height: 80px;
+    width: 525px;
+    height: 95px;
     margin-top: 20px;
 
 }
 
 .a {
-    width: 550px;
-    height: 330px;
+    width: 525px;
+    height: 340px;
 }
 
 .b {
-    width: 550px;
+    width: 525px;
     height: 60px;
 }
 
 .c {
-    width: 550px;
+    width: 525px;
     height: 150px;
 }
 
 .ten {
     height: 400px;
-    width: 550px;
+    width: 525px;
 }
 
 .ten1 {
@@ -244,7 +244,7 @@
     width: 775px;
     height: 175px;
     float: none;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 
@@ -255,22 +255,22 @@
 
 .eleven {
     margin-top: 40px;
-    width: 550px;
-    height: 520px
+    width: 525px;
+    height: 550px
 }
 
 .eleven1 {
-    width: 550px;
-    height: 230px;
+    width: 525px;
+    height: 240px;
 }
 
 .e {
-    width: 550px;
-    height: 110px;
+    width: 525px;
+    height: 100px;
 }
 
 .eleven2 {
-    width: 550px;
+    width: 525px;
     height: 260px;
     float: none;
     margin-top: 10px;
@@ -278,46 +278,42 @@
 
 .twelve {
 
-    width: 550px;
-    height: 190px
+    width: 525px;
+    height: 200px
 }
 
 .thirteen {
-    width: 550px;
-    height: 470px
+    width: 525px;
+    height: 530px
 }
 
 
 .fourteen {
-    width: 550px;
-    height: 290px
+    width: 525px;
+    height: 310px
 }
 
 .fifteen {
-    width: 550px;
-    height: 200px
+    width: 525px;
+    height: 220px
 }
 
 .sixteen {
-    width: 550px;
-    height: 210px
+    width: 525px;
+    height: 230px
 }
 
 .seventeen {
-    width: 550px;
-    height: 200px
+    width: 525px;
+    height: 255px
 }
 
 .eightteen {
-    width: 550px;
+    width: 525px;
     height: 120px
 }
 
-.footer {
-    background-size: 100%;
-    width: 1920px;
-    height: 430px;
-}
+
 
 .f_img {
     height: 430px;
@@ -326,17 +322,12 @@
 
 
 
-.fife2 {
-    width: 700px;
-    height: 100px;
-    margin-left: 163px;
-    margin-top: -480px;
 
-}
 .footer {
     background-size: 100%;
-    width: 575px;
+    width: 550px;
     height: 120px;
+    margin: auto;
 
 }
 
@@ -348,12 +339,10 @@
 }
 
 
-
-
 .fife2 {
     width: 240px;
     height: 80px;
-    margin-left: 12px;
+    margin-left: 0px;
     margin-top: -185px;
 }
 
@@ -382,9 +371,9 @@
 
     width: 300px;
     height: 25px;
-    margin-top: -74px;
+    margin-top: -70px;
     float: right;
-    margin-right: 20px;
+    margin-right: 15px;
     position: relative;
 
 }
