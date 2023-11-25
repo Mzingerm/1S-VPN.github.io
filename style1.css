@@ -1,13 +1,13 @@
 
 .all{
-    width: 1920px;
+    width: 1680px;
     height: 100%;
     margin: auto;
     background: #ffffff;
 }
 
 .menu{
-width: 1920px;
+width: 1680px;
 height: 88px;
 background: #191919;
 }
@@ -29,7 +29,7 @@ margin: 0px auto;
    
     height: 47px;
     width: 100px;
-  margin-left: 1450px;
+  margin-left: 1200px;
   
 
 }
@@ -78,7 +78,7 @@ height: 40px;
 }
 
 .main{
-    width: 1920px;
+    width: 1680px;
     height: 684px;
     background-size: 100%;
     margin-top: -5px;
@@ -86,6 +86,8 @@ height: 40px;
 
 .m_img{
     max-width: 100%;
+    height: 680px;
+  
 }
 
 
@@ -105,7 +107,7 @@ height: 40px;
         width: 489px;
         height: 215px;
         float: right;
-        margin-right: 380px;
+        margin-right: 290px;
         position: relative;
         top: -970px;
 }
@@ -187,7 +189,7 @@ margin-top: 40px;
 }
 
 .content{
-    width: 1600px;
+    width: 1460px;
     height: 2500px;
     margin: auto;
     margin-top: 50px;
@@ -208,7 +210,7 @@ margin-top: 40px;
    width: 900px;
    height: 406px;
 margin-top: -400px;
-margin-left: 700px;
+margin-left: 720px;
 }
 
 .one_text1{
@@ -223,7 +225,7 @@ width: 576px;
 }
 
 .one_text2 {
-    width: 800px;
+    width: 760px;
     height: 210px;
     margin-top: 30px;
     color: #000;
@@ -323,20 +325,20 @@ width: 760px;
 
 .fourpic {
     float: right;
-    margin-right: 60px;
+    margin-right: 80px;
 }
 
 .fourtext {
-    width: 997px;
+    width: 767px;
     height: 355px;
- padding-top: 200px;
+ padding-top: 140px;
 
 }
 
 .four_text1 {
 
-    width: 997px;
-    height: 100px;
+    width: 767px;
+    height: 150px;
     color: #000;
     font-family: 'Segoe UI';
     font-size: 60px;
@@ -345,7 +347,7 @@ width: 760px;
 }
 
 .four_text2 {
-        width: 970px;
+        width: 740px;
         height: 250px;
     color: #000;
     font-family: 'Segoe UI';
@@ -355,13 +357,13 @@ width: 760px;
 }
 .footer{
 background-size: 100%;
-width: 1920px;
+width: 1680px;
     height: 430px;
 }
 
 .f_img{
-height: 430px;
-    width: 1920px
+height: 380px;
+    width: 1680px
 }
 
 .fife{
@@ -373,8 +375,8 @@ height: 430px;
 .fife2 {
     width: 700px;
     height: 200px;
-    margin-left: 160px;
-    margin-top: -480px;
+    margin-left: 112px;
+    margin-top: -440px;
 }
 
 .fife_text1 {
@@ -402,9 +404,9 @@ height: 430px;
     
     width:720px;
     height: 50px;
-    margin-top: -240px;
+    margin-top: -230px;
     float: right;
-    margin-right: 230px;
+    margin-right: 190px;
    position: relative;
 }
 
@@ -447,13 +449,13 @@ height: 430px;
     width: 207px;
         height: 72px;
     margin: auto;
-    margin-left: 163px;
-    padding-top: 166px;
+    margin-left: 106px;
+    padding-top: 133px;
 }
 
 .f {
-    margin-top: 168px;
-    margin-left: 168px;
+    margin-top: 129px;
+    margin-left: 107px;
     color: #ffffff;
     font-family: 'Segoe UI';
     font-size: 17px;
