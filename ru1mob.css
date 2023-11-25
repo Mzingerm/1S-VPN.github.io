@@ -138,13 +138,13 @@
     .blok1_2 {
         width: 270px;
         height: 30px;
-        margin-top: 0px;
+        margin-top: 3px;
     }
 
     .blok1_2_text {
         color: #FFF;
         font-family: 'Segoe UI';
-        font-size: 56px;
+        font-size: 54px;
         font-style: bold;
         letter-spacing: 2px;
     }
@@ -152,7 +152,7 @@
     .blok1_3 {
         width: 270px;
         height: 10px;
-        margin-top: 40px;
+        margin-top: 38px;
     }
 
     .blok1_3_text {
@@ -431,7 +431,7 @@
 
     .privacypolicy {
         font-family: 'Segoe UI';
-        width: 160px;
+        width: 170px;
         height: 25px;
         font-size: 10px;
         letter-spacing: 0.5px;
