@@ -53,7 +53,7 @@
 
 .content {
     width: 525px;
-    height: 6610px;
+    height: 6970px;
     margin: auto;
     margin-top: 40px;
 }
@@ -117,7 +117,7 @@
 
 .two {
     width: 525px;
-    height: 860px;
+    height: 890px;
     margin-top: 30px;
 }
 
@@ -125,7 +125,7 @@
 
     font-family: 'Segoe UI';
     color: #003265;
-    margin-top: 12px;
+    margin-top: 14px;
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
@@ -146,11 +146,11 @@
 
 .three {
     width: 525px;
-    height: 390px;
+    height: 400px;
 }
 
 .four {
-    height: 250px;
+    height: 260px;
     width: 525px;
 }
 
@@ -160,7 +160,7 @@
 }
 
 .six {
-    height: 130px;
+    height: 113px;
     width: 525px;
 }
 
@@ -175,20 +175,20 @@
 }
 
 .nine {
-    height: 480px;
+    height: 832px;
     width: 525px;
 }
 
 .nine1 {
     width: 525px;
-    height: 40px;
+    height: 440px;
 }
 
 .nine2 {
-    width: 730px;
+    width: 525px;
     height: 330px;
     float: none;
-    margin-top: 0px;
+    margin-top: 30px;
 }
 
 .title3 {
@@ -199,7 +199,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: 22px;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 
 .title4 {
@@ -227,21 +227,21 @@
 
 .c {
     width: 525px;
-    height: 150px;
+    height: 100px;
 }
 
 .ten {
-    height: 400px;
+    height: 380px;
     width: 525px;
 }
 
 .ten1 {
-    width: 775px;
+    width: 525px;
     height: 215px;
 }
 
 .ten2 {
-    width: 775px;
+    width: 525px;
     height: 175px;
     float: none;
     margin-top: 5px;
@@ -261,7 +261,7 @@
 
 .eleven1 {
     width: 525px;
-    height: 240px;
+    height: 230px;
 }
 
 .e {
@@ -342,7 +342,7 @@
 .fife2 {
     width: 240px;
     height: 80px;
-    margin-left: 0px;
+    margin-left: 13px;
     margin-top: -185px;
 }
 
