@@ -1,14 +1,14 @@
 @media only screen and (max-width: 575px) {
-
-    .all {
-        width: 525px;
+.all {
+        width: 550px;
         height: 100%;
         margin: auto;
         background: #ffffff;
+        margin-left: -10px;
+        margin-top: -10px;
     }
-
     .menu {
-        width: 575px;
+        width: 550px;
         height: 40px;
         background: #191919;
     }
