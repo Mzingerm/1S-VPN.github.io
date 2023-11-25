@@ -54,7 +54,7 @@
 
     .content {
         width: 525px;
-        height: 6990px;
+        height: 7010px;
         margin: auto;
         margin-top: 40px;
     }
@@ -72,7 +72,7 @@
 
     .one {
         width: 525px;
-        height: 450px;
+        height: 310px;
     }
    
     .title1 {
@@ -263,7 +263,7 @@
 
     .thirteen {
         width: 550px;
-        height: 370px
+        height: 420px
     }
 
 
@@ -292,113 +292,91 @@
         height: 120px
     }
 
-    .footer {
-        background-size: 100%;
-        width: 1920px;
-        height: 430px;
-    }
+.footer {
+    background-size: 100%;
+    width: 550px;
+    height: 120px;
+    margin: auto;
 
-    .f_img {
-        height: 430px;
-        width: 1920px
-    }
-
-
-
-    .fife2 {
-        width: 700px;
-        height: 100px;
-        margin-left: 163px;
-        margin-top: -480px;
-
-    }
-
-    .footer {
-        background-size: 100%;
-        width: 575px;
-        height: 120px;
-
-    }
-
-    .f_img {
-        height: 120px;
-        width: 575px;
-
-
-    }
-
-
-
-
-    .fife2 {
-        width: 240px;
-        height: 80px;
-        margin-left: 12px;
-        margin-top: -185px;
-    }
-
-    .fife_text1 {
-        width: 997px;
-        height: 100px;
-        color: #000;
-        font-family: 'Segoe UI';
-        font-size: 24px;
-        font-style: normal;
-        line-height: 66px;
-
-    }
-
-    .fife_text2 {
-        width: 240px;
-        height: 80px;
-        color: #000;
-        font-family: 'Segoe UI';
-        font-size: 11px;
-        font-style: normal;
-        line-height: 16px;
-    }
-
-    .footer1 {
-
-        width: 300px;
-        height: 25px;
-        margin-top: -74px;
-        float: right;
-        margin-right: 20px;
-        position: relative;
-
-    }
-
-    .privacypolicy {
-        font-family: 'Segoe UI';
-        width: 120px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: left;
-        color: #FFF;
-    }
-
-
-
-    .termsconditions {
-        font-family: 'Segoe UI';
-        width: 170px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: right;
-        color: #FFF;
-    }
-
-    .l_img1 {
-        width: 70px;
-        height: 23px;
-        margin: auto;
-        margin-left: 13px;
-        padding-top: 66px;
-    }
 }
+
+.f_img {
+    height: 120px;
+    width: 550px;
+
+
+}
+
+
+.fife2 {
+    width: 240px;
+    height: 80px;
+    margin-left: 13px;
+    margin-top: -185px;
+}
+
+.fife_text1 {
+    width: 997px;
+    height: 100px;
+    color: #000;
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-style: normal;
+    line-height: 66px;
+
+}
+
+.fife_text2 {
+    width: 240px;
+    height: 80px;
+    color: #000;
+    font-family: 'Segoe UI';
+    font-size: 11px;
+    font-style: normal;
+    line-height: 16px;
+}
+
+.footer1 {
+
+    width: 300px;
+    height: 25px;
+    margin-top: -70px;
+    float: right;
+    margin-right: 15px;
+    position: relative;
+
+}
+
+.privacypolicy {
+    font-family: 'Segoe UI';
+    width: 120px;
+    height: 25px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    float: left;
+    color: #FFF;
+}
+
+
+
+.termsconditions {
+    font-family: 'Segoe UI';
+    width: 170px;
+    height: 25px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    float: right;
+    color: #FFF;
+}
+
+.l_img1 {
+    width: 70px;
+    height: 23px;
+    margin: auto;
+    margin-left: 13px;
+    padding-top: 66px;
+}
+
 
 .f {
     margin-top: 6px;
@@ -409,4 +387,5 @@
     font-style: normal;
     line-height: 35px;
 
+}
 }
