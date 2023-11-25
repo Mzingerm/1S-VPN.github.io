@@ -1,5 +1,6 @@
-@media only screen and (max-width: 575px) {
-.all {
+@media only screen and (max-width: 525px) {
+
+    .all {
         width: 550px;
         height: 100%;
         margin: auto;
@@ -7,6 +8,7 @@
         margin-left: -10px;
         margin-top: -10px;
     }
+
     .menu {
         width: 550px;
         height: 40px;
@@ -18,7 +20,7 @@
         height: 26px;
         margin: auto;
         margin-left: 25px;
-        padding-top: 8px;
+        padding-top: 6px;
     }
 
     .logo {
@@ -28,16 +30,16 @@
 
     .star {
         margin: 0px auto;
-        margin-top: -27px;
+        margin-top: -25px;
 
     }
 
     .s_img {
-        width: 70px;
-        height: 12px;
+        width: 74px;
+        height: 15px;
         margin: auto;
         float: right;
-        margin-right: 55px;
+        margin-right: 23px;
     }
 
     .main {

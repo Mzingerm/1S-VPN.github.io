@@ -1,4 +1,5 @@
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 525px) {
+
     .all {
         width: 550px;
         height: 100%;
@@ -27,19 +28,20 @@
 
     }
 
-  .star {
-      margin: 0px auto;
-      margin-top: -25px;
+    .star {
+        margin: 0px auto;
+        margin-top: -25px;
 
-  }
+    }
 
-  .s_img {
-      width: 74px;
-      height: 15px;
-      margin: auto;
-      float: right;
-      margin-right: 23px;
-  }
+    .s_img {
+        width: 74px;
+        height: 15px;
+        margin: auto;
+        float: right;
+        margin-right: 23px;
+    }
+  
 
     .main {
         width: 550px;
