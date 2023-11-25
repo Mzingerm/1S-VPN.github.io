@@ -42,7 +42,7 @@
     }
 
     .main {
-        width: 525px;
+        width: 550px;
         height: 200px;
         background-size: 100%;
         margin-top: -5px;
@@ -54,13 +54,13 @@
 
     .content {
         width: 525px;
-        height: 7010px;
+        height: 7170px;
         margin: auto;
         margin-top: 40px;
     }
 
     .title {
-        width: 545px;
+        width: 525px;
         height: 86px;
         color: #232323;
         font-family: 'Segoe UI';
@@ -88,7 +88,7 @@
     }
 
     .one1_1 {
-        width: 550px;
+        width: 524px;
         height: 130px;
         color: #002142;
         font-family: 'Segoe UI';
@@ -105,8 +105,8 @@
 
 
     .two {
-        width: 550px;
-        height: 700px;
+        width: 524px;
+        height: 730px;
         margin-top: 10px;
     }
 
@@ -119,7 +119,7 @@
         font-style: normal;
         font-weight: 600;
         line-height: 25px;
-        width: 550px;
+        width: 524px;
 
     }
 
@@ -134,55 +134,55 @@
     }
 
     .three {
-        width: 550px;
+        width: 524px;
         height: 160px;
     }
 
     .four {
         height: 255px;
-        width: 576px;
+        width: 524px;
     }
 
     .fife {
-        height: 975px;
-        width: 550px;
+        height: 1000px;
+        width: 524px;
     }
 
     .six {
         height: 170px;
-        width: 550px;}
+        width: 524px;}
     
 
     .seven {
-        height: 800px;
-        width: 550px;
+        height: 820px;
+        width: 524px;
     }
 
     .eight {
-        height: 993px;
-        width: 550px;
+        height: 1030px;
+        width: 524px;
     }
 
         .eight1 {
-            height: 380px;
-            width: 550px;
+            height: 400px;
+            width: 524px;
         }
     
         .eight2 {
-            height: 550px;
-            width: 550px;
+            height: 524px;
+            width: 524px;
             float: none;
             margin-top: 10px;
         }
 
     .nine {
         height: 385px;
-        width: 550px;
+        width: 524px;
     }
 
 
     .title3 {
-        width: 550px;
+        width: 524px;
         color: #003265;
         font-family: 'Segoe UI';
         font-size: 18px;
@@ -199,30 +199,30 @@
         font-style: normal;
         font-weight: 500;
         line-height: 22px;
-        width: 550px;
+        width: 524px;
         height: 80px;
         margin-top: 20px;
 
     }
 
     .a {
-        width: 550px;
+        width: 524px;
         height: 330px;
     }
 
     .b {
-        width: 550px;
+        width: 524px;
         height: 60px;
     }
 
     .c {
-        width: 550px;
+        width: 524px;
         height: 150px;
     }
 
     .ten {
         height: 220px;
-        width: 550px;
+        width: 524px;
     }
 
 
@@ -234,22 +234,22 @@
 
     .eleven {
         margin-top: 22px;
-        width: 550px;
-        height: 822px
+        width: 524px;
+        height: 852px
     }
 
     .eleven1 {
-        width: 550px;
+        width: 524px;
         height: 230px;
     }
 
     .e {
-        width: 550px;
+        width: 524px;
         height: 110px;
     }
 
     .eleven2 {
-        width: 550px;
+        width: 524px;
         height: 260px;
         float: none;
         margin-top: 10px;
@@ -257,38 +257,38 @@
 
     .twelve {
 
-        width: 550px;
+        width: 524px;
         height: 190px
     }
 
     .thirteen {
-        width: 550px;
-        height: 420px
+        width: 524px;
+        height: 430px
     }
 
 
     .fourteen {
-        width: 550px;
-        height: 185px
+        width: 524px;
+        height: 180px
     }
 
     .fifteen {
-        width: 550px;
-        height: 105px
+        width: 524px;
+        height: 120px
     }
 
     .sixteen {
-        width: 550px;
+        width: 524px;
         height: 140px
     }
 
     .seventeen {
-        width: 550px;
+        width: 524px;
         height: 200px
     }
 
     .eightteen {
-        width: 550px;
+        width: 524px;
         height: 120px
     }
 
@@ -316,7 +316,7 @@
 }
 
 .fife_text1 {
-    width: 997px;
+    width: 525px;
     height: 100px;
     color: #000;
     font-family: 'Segoe UI';
