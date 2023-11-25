@@ -344,13 +344,13 @@
         height: 160px;
         margin: auto;
         float: left;
-        padding-top: 40px;
+        padding-top: 44px;
     }
 
     .four_text1 {
 
         width: 300px;
-        height: 56px;
+        height: 40px;
         color: #000;
         font-family: 'Segoe UI';
         font-size: 20px;
