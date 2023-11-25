@@ -5,10 +5,12 @@
         height: 100%;
         margin: auto;
         background: #ffffff;
+            margin-left: -10px;
+                margin-top: -10px;
     }
 
     .menu {
-        width: 575px;
+        width: 550px;
         height: 55px;
         background: #191919;
     }
@@ -17,7 +19,7 @@
     
             height: 20px;
             width: 70px;
-            margin-left: 374px;
+            margin-left: 383px;
             background: #191919;
     
     
@@ -76,12 +78,12 @@
     height: 15px;
     margin: auto;
     float: right;
-    margin-right: 55px;
+    margin-right: 23px;
 }
 
     .main {
-        width: 575px;
-        height: 200px;
+        width: 550px;
+        height: 180px;
         background-size: 100%;
         margin-top: -5px;
     }
@@ -98,7 +100,7 @@
         margin-left: 25px;
         padding-top: 0px;
         position: relative;
-        top: -198px;
+        top: -184px;
     }
 
     .blokfree {
@@ -106,9 +108,9 @@
         width: 240px;
         height: 100px;
         float: right;
-        margin-right: 50px;
+        margin-right: 40px;
         position: relative;
-        top: -335px;
+        top: -325px;
     }
 
     .blokfreetext {
