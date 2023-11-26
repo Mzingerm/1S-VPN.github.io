@@ -1,7 +1,6 @@
 @media only screen and (max-width: 525px) {
-
-    .all {
-        width: 550px;
+.all {
+        width: 440px;
         height: 100%;
         margin: auto;
         background: #ffffff;
@@ -10,8 +9,8 @@
     }
 
     .menu {
-        width: 550px;
-        height: 40px;
+        width: 440px;
+        height: 45px;
         background: #191919;
     }
 
@@ -20,7 +19,7 @@
         height: 26px;
         margin: auto;
         margin-left: 25px;
-        padding-top: 6px;
+        padding-top: 8px;
     }
 
     .logo {
@@ -41,23 +40,25 @@
         float: right;
         margin-right: 23px;
     }
+.main {
+    width: 440px;
+    height: 180px;
+    background-size: 100%;
 
-    .main {
-        width: 525px;
-        height: 200px;
-        background-size: 100%;
-        margin-top: -5px;
-    }
+}
 
-    .m_img {
-        max-width: 100%;
-    }
+.m_img {
+    max-width: 100%;
+    margin-top: -15px;
+    height: 200px;
+}
 
 .content {
-    width: 525px;
-    height: 6990px;
+
+    width: 400px;
+    height: 3010px;
     margin: auto;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .title {
