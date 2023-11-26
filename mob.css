@@ -10,7 +10,7 @@
 }
 
 .menu {
-    width: 550px;
+    width: 535px;
     height: 55px;
     background: #191919;
 }
@@ -373,14 +373,14 @@ width: 210px;
 
 .footer {
     background-size: 100%;
-    width: 550px;
+    width: 535px;
     height: 120px;
     margin: auto;
 }
 
 .f_img {
     height: 120px;
-    width: 550px;
+    width: 535px;
    
 
 }
