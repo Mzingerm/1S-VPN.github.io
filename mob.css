@@ -252,12 +252,13 @@ width: 165px;
 
 .twopic {
     float: right;
-    margin-left: 400px;
+    margin-left: 0px;
     margin-top: -56px;
+margin-right: 20px;
 }
 
 .twotext {
-    width: 280px;
+    width: 240px;
     height: 160px;
     margin: auto;
     float: left;
