@@ -1,7 +1,7 @@
 @media only screen and (max-width: 575px) {
 
 .all {
-    width: 550px;
+    width: 535px;
     height: 100%;
     margin: auto;
     background: #ffffff;
@@ -83,7 +83,7 @@ background: #191919;
 }
 
 .main {
-    width: 550px;
+    width: 535px;
     height: 180px;
     background-size: 100%;
   
@@ -92,6 +92,7 @@ background: #191919;
  .m_img {
      max-width: 100%;
      margin-top: -15px;
+     height: 200px;
  }
 
 .blok1 {
@@ -125,7 +126,7 @@ background: #191919;
 
 .blok1_1 {
     width: 270px;
-    height: 10px;
+    height: 7px;
 }
 
 .blok1_1_text {
@@ -137,8 +138,8 @@ background: #191919;
 
 .blok1_2 {
     width: 270px;
-    height: 33px;
-    margin-top: 4px;
+    height: 41px;
+    margin-top: 0px;
 }
 
 .blok1_2_text {
@@ -192,7 +193,7 @@ max-width: 100%;
 
 .content {
     
-    width: 525px;
+    width: 500px;
     height: 900px;
     margin: auto;
     margin-top: 30px;
@@ -212,7 +213,7 @@ width: 215px;
     width: 300px;
     height: 160px;
     margin-top: -145px;
-    margin-left: 230px;
+    margin-left: 240px;
 }
 
 .one_text1 {
@@ -226,7 +227,7 @@ width: 215px;
 }
 
 .one_text2 {
-    width: 300px;
+    width: 240px;
     height: 70px;
     margin-top: 10px;
     color: #000;
@@ -235,7 +236,8 @@ width: 215px;
     font-style: normal;
     line-height: 17px;
     float:right ;
-    margin-top: -160px;
+    margin-top: -176px;
+    margin-right: 62px;
 }
 
 .two {
@@ -273,7 +275,7 @@ width: 215px;
 }
 
 .two_text2 {
-width: 265px;
+width: 245px;
     height: 100px;
     margin-top: 10px;
     color: #000;
@@ -302,7 +304,7 @@ width: 300px;
 }
 
 .three_text2 {
-    width: 280px;
+    width: 260px;
         height: 90px;
         margin-top: 10px;
         color: #000;
@@ -359,7 +361,7 @@ width: 230px;
 }
 
 .four_text2 {
-width: 260px;
+width: 210px;
     height: 100px;
     margin-top: 10px;
     color: #000;
@@ -393,7 +395,7 @@ width: 260px;
 .fife2 {
     width: 240px;
     height: 80px;
-    margin-left: 12px;
+    margin-left: 19px;
     margin-top: -145px;
 }
 
