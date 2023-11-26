@@ -126,7 +126,7 @@
 
     .blok1_1 {
         width: 270px;
-        height: 16px;
+        height: 20px;
     }
 
     .blok1_1_text {
@@ -134,11 +134,12 @@
         font-family: 'Segoe UI';
         font-size: 11px;
         font-style: normal;
+        line-height: 14px;
     }
 
     .blok1_2 {
         width: 270px;
-        height: 39px;
+        height: 37px;
         margin-top: 0px;
     }
 
@@ -420,38 +421,38 @@
         line-height: 16px;
     }
 
-    .footer1 {
+  .footer1 {
 
-        width: 300px;
-        height: 25px;
-        margin-top: -74px;
-        float: right;
-        margin-right: 20px;
-        position: relative;
+      width: 360px;
+      height: 25px;
+      margin-top: -65px;
+      float: right;
+      margin-right: 10px;
+      position: relative;
 
-    }
+  }
 
-    .privacypolicy {
-        font-family: 'Segoe UI';
-        width: 120px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: left;
-        color: #FFF;
-    }
+  .privacypolicy {
+      font-family: 'Segoe UI';
+      width: 170px;
+      height: 25px;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+      float: left;
+      color: #FFF;
+  }
 
 
 
-    .termsconditions {
-        font-family: 'Segoe UI';
-        width: 170px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: right;
-        color: #FFF;
-    }
+  .termsconditions {
+      font-family: 'Segoe UI';
+      width: 170px;
+      height: 25px;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+      float: right;
+      color: #FFF;
+  }
 
     .l_img1 {
         width: 70px;
