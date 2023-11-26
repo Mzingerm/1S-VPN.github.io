@@ -126,7 +126,7 @@
 
     .blok1_1 {
         width: 270px;
-        height: 20px;
+        height: 28px;
     }
 
     .blok1_1_text {
@@ -139,7 +139,7 @@
 
     .blok1_2 {
         width: 270px;
-        height: 37px;
+        height: 33px;
         margin-top: 0px;
     }
 
@@ -233,9 +233,9 @@
         margin-top: 10px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 12px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 17px;
+        line-height: 15px;
         float: right;
         margin-top: -176px;
         margin-right: 62px;
@@ -266,7 +266,7 @@
     }
 
     .two_text1 {
-        width: 200px;
+        width: 230px;
         height: 46px;
         color: #000;
         font-family: 'Segoe UI';
@@ -276,14 +276,14 @@
     }
 
     .two_text2 {
-        width: 245px;
+        width: 255px;
         height: 100px;
         margin-top: 10px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 12px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 17px;
+        line-height: 15px;
     }
 
     .three {
@@ -305,24 +305,24 @@
     }
 
     .three_text2 {
-        width: 260px;
+        width: 280px;
         height: 90px;
         margin-top: 10px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 12px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 17px;
+        line-height: 15px;
     }
 
     .three_text1 {
-        width: 250px;
-        height: 50px;
+        width: 270px;
+        height: 60px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 20px;
+        font-size: 19px;
         font-style: normal;
-        line-height: 24px;
+        line-height: 21px;
     }
 
     .four {
@@ -339,7 +339,7 @@
     .fourpic {
 
         float: right;
-        margin-right: 50px;
+        margin-right: 30px;
     }
 
     .fourtext {
@@ -352,24 +352,24 @@
 
     .four_text1 {
 
-        width: 230px;
+        width: 270px;
         height: 46px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 20px;
+        font-size: 19px;
         font-style: normal;
-        line-height: 24px;
+        line-height: 22px;
     }
 
     .four_text2 {
-        width: 210px;
+        width: 250px;
         height: 100px;
         margin-top: 10px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 12px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 17px;
+        line-height: 15px;
     }
 
     .footer {
@@ -416,9 +416,9 @@
         height: 80px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 11px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 16px;
+        line-height: 14px;
     }
 
   .footer1 {
