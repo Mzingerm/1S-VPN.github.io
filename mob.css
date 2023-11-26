@@ -1,7 +1,7 @@
 @media only screen and (max-width: 575px) {
 
 .all {
-    width: 460px;
+    width: 450px;
     height: 100%;
     margin: auto;
     background: #ffffff;
@@ -10,7 +10,7 @@
 }
 
 .menu {
-    width: 460px;
+    width: 450px;
     height: 55px;
     background: #191919;
 }
@@ -83,7 +83,7 @@ background: #191919;
 }
 
 .main {
-    width: 460px;
+    width: 450px;
     height: 180px;
     background-size: 100%;
   
@@ -193,7 +193,7 @@ max-width: 100%;
 
 .content {
     
-    width: 440px;
+    width: 430px;
     height: 900px;
     margin: auto;
     margin-top: 30px;
