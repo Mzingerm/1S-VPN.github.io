@@ -1,7 +1,7 @@
 @media only screen and (max-width: 575px) {
 
     .all {
-        width: 535px;
+        width: 525px;
         height: 100%;
         margin: auto;
         background: #ffffff;
@@ -10,7 +10,7 @@
     }
 
     .menu {
-        width: 535px;
+        width: 525px;
         height: 55px;
         background: #191919;
     }
@@ -83,7 +83,7 @@
     }
 
     .main {
-        width: 535px;
+        width: 525px;
         height: 180px;
         background-size: 100%;
 
@@ -194,7 +194,7 @@
 
     .content {
 
-        width: 500px;
+        width: 480px;
         height: 900px;
         margin: auto;
         margin-top: 30px;
@@ -233,9 +233,9 @@
         margin-top: 10px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 11px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 15px;
+        line-height: 13px;
         float: right;
         margin-top: -176px;
         margin-right: 62px;
@@ -276,14 +276,14 @@
     }
 
     .two_text2 {
-        width: 255px;
+        width: 235px;
         height: 100px;
         margin-top: 6px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 11px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 15px;
+        line-height: 13px;
     }
 
     .three {
@@ -312,7 +312,7 @@
         font-family: 'Segoe UI';
         font-size: 10px;
         font-style: normal;
-        line-height: 12px;
+        line-height: 13px;
     }
 
     .three_text1 {
@@ -362,26 +362,26 @@
     }
 
     .four_text2 {
-        width: 250px;
+        width: 230px;
         height: 100px;
         margin-top: 3px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 11px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 15px;
+        line-height: 13px;
     }
 
     .footer {
         background-size: 100%;
-        width: 535px;
+        width: 525px;
         height: 120px;
         margin: auto;
     }
 
     .f_img {
         height: 120px;
-        width: 535px;
+        width: 525px;
 
 
     }
