@@ -1,8 +1,16 @@
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 575px) {
 
-body {
-        overflow-x: hidden;
+html {
+
+        width: 100%;
         max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
     }
 
 .all {
