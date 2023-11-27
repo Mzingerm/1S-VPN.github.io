@@ -363,55 +363,56 @@
         line-height: 14px;
     }
 
-    .footer1 {
+.footer1 {
 
-        width: 300px;
-        height: 25px;
-        margin-top: -69px;
-        float: right;
-        margin-right: 10px;
-        position: relative;
+    width: 340px;
+    height: 25px;
+    margin-top: -65px;
+    float: right;
+    margin-right: 0px;
+    position: relative;
 
-    }
+}
 
-    .privacypolicy {
-        font-family: 'Segoe UI';
-        width: 120px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: left;
-        color: #FFF;
-    }
+.privacypolicy {
+    font-family: 'Segoe UI';
+    width: 150px;
+    height: 25px;
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    float: left;
+    color: #FFF;
+}
 
 
 
-    .termsconditions {
-        font-family: 'Segoe UI';
-        width: 170px;
-        height: 25px;
-        font-size: 14px;
-        letter-spacing: 0.5px;
-        float: right;
-        color: #FFF;
-    }
+.termsconditions {
+    font-family: 'Segoe UI';
+    width: 170px;
+    height: 25px;
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    float: right;
+    color: #FFF;
+}
 
-    .l_img1 {
-        width: 70px;
-        height: 23px;
-        margin: auto;
-        margin-left: 27px;
-        padding-top: 59px;
-    }
+.l_img1 {
+    width: 70px;
+    height: 23px;
+    margin: auto;
+    margin-left: 13px;
+    padding-top: 26px;
+}
 
-    .f {
-        margin-top: -3px;
-        margin-left: 27px;
-        color: #ffffff;
-        font-family: 'Segoe UI';
-        font-size: 6px;
-        font-style: normal;
-        line-height: 35px;
 
-    }
+.f {
+    margin-top: -35px;
+    margin-left: 14px;
+    color: #ffffff;
+    font-family: 'Segoe UI';
+    font-size: 6px;
+    font-style: normal;
+    line-height: 35px;
+
+}
 }
