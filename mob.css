@@ -25,7 +25,7 @@ html {
 }
 
 .menu {
-    width: 440px;
+    width: 430px;
     height: 55px;
     background: #191919;
 }
@@ -98,7 +98,7 @@ background: #191919;
 }
 
 .main {
-    width: 440px;
+    width: 430px;
     height: 180px;
     background-size: 100%;
   
@@ -153,8 +153,8 @@ background: #191919;
 
 .blok1_2 {
     width: 270px;
-    height: 39px;
-    margin-top: 0px;
+    height: 33px;
+    margin-top: 4px;
 }
 
 .blok1_2_text {
@@ -236,7 +236,7 @@ width: 165px;
     height: 30px;
     color: #000;
     font-family: 'Segoe UI';
-    font-size: 15px;
+    font-size: 14px;
     font-style: normal;
     line-height: 24px;
 }
@@ -247,7 +247,7 @@ width: 165px;
     margin-top: 10px;
     color: #000;
     font-family: 'Segoe UI';
-    font-size: 10px;
+    font-size: 9px;
     font-style: normal;
     line-height: 14px;
     float:right ;
@@ -273,7 +273,7 @@ margin-right: 20px;
 }
 
 .twotext {
-    width: 240px;
+    width: 220px;
     height: 160px;
     margin: auto;
     float: left;
@@ -281,11 +281,11 @@ margin-right: 20px;
 }
 
 .two_text1 {
-    width: 200px;
+    width: 280px;
         height: 46px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 16px;
+        font-size: 15px;
         font-style: normal;
         line-height: 24px;
 }
@@ -325,7 +325,7 @@ width: 300px;
         margin-top: 0px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 9px;
+        font-size: 8.5px;
         font-style: normal;
         line-height: 14px;
 }
@@ -369,7 +369,7 @@ width: 200px;
 
 .four_text1 {
 
-width: 200px;
+width: 180px;
     height: 46px;
     color: #000;
     font-family: 'Segoe UI';
@@ -391,14 +391,14 @@ width: 180px;
 
 .footer {
     background-size: 100%;
-    width: 440px;
+    width: 430px;
     height: 120px;
     margin: auto;
 }
 
 .f_img {
     height: 120px;
-    width: 440px;
+    width: 430px;
    
 
 }
@@ -440,7 +440,7 @@ width: 180px;
 
 .footer1 {
 
-    width:300px;
+    width:290px;
     height: 25px;
     margin-top: -69px;
     float: right;
@@ -453,7 +453,7 @@ width: 180px;
     font-family: 'Segoe UI';
     width: 120px;
     height: 25px;
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 0.5px;
     float: left;
     color: #FFF;
@@ -465,7 +465,7 @@ width: 180px;
     font-family: 'Segoe UI';
     width: 170px;
     height: 25px;
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 0.5px;
     float: right;
     color: #FFF;
