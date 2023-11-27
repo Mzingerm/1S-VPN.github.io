@@ -5,14 +5,14 @@ html {
         width: 100%;
         max-width: 100%;
         overflow-x: hidden;
-        overflow-x: scroll;
+        
        
     }
 
     body {
         width: 100%;
         max-width: 100%;
-        overflow-x: hidden;
+      
         overflow-x: scroll;
         margin-left: 0px;
             margin-top: -5px;
