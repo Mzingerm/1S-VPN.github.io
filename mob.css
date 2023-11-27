@@ -2,16 +2,16 @@
 
 html {
 
-        width: 40%;
-            max-width: 40%;
+        width: 100%;
+            max-width: 100%;
     overflow-x: scroll;
         
        
     }
 
     body {
-        width: 100%;
-        max-width: 100%;
+        width: 40%;
+        max-width: 400%;
     overflow-x: scroll;
       
         margin-left: 0px;
