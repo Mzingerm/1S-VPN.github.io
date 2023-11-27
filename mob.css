@@ -252,7 +252,7 @@ width: 165px;
     line-height: 14px;
     float:right ;
     margin-top: -200px;
-    margin-right: 82px;
+    margin-right: 72px;
 }
 
 .two {
@@ -316,7 +316,7 @@ width: 165px;
 width: 300px;
     height: 160px;
     margin-top: -120px;
-    margin-left: 170px;
+    margin-left: 160px;
 }
 
 .three_text2 {
@@ -391,14 +391,14 @@ width: 180px;
 
 .footer {
     background-size: 100%;
-    width: 430px;
+    width: 420px;
     height: 120px;
     margin: auto;
 }
 
 .f_img {
-    height: 120px;
-    width: 430px;
+    height: 110px;
+    width: 420px;
    
 
 }
