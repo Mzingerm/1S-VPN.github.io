@@ -1,20 +1,23 @@
 @media only screen and (max-width: 575px) {
+html {
 
-    html {
-    
-            width: 100%;
-            max-width: 100%;
-            overflow-x: hidden;
-        }
-    
-        body {
-            width: 100%;
-            max-width: 100%;
-            overflow-x: hidden;
-            margin-left: 0px;
-            margin-top: -5px;
-    
-        }
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+        height: 100%;
+
+
+    }
+
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+        height: 100%;
+        margin-left: 0px;
+        margin-top: -5px;
+
+    }
     .all {
         width: 440px;
         height: 100%;
