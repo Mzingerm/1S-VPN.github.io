@@ -11,6 +11,8 @@ html {
         width: 100%;
         max-width: 100%;
         overflow-x: hidden;
+        margin-left: -10px;
+            margin-top: -10px;
     }
 
 .all {
@@ -18,8 +20,7 @@ html {
     height: 100%;
     margin: auto;
     background: #ffffff;
-    margin-left: -10px;
-    margin-top: -10px;
+   
 }
 
 .menu {
