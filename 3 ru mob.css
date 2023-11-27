@@ -1,7 +1,6 @@
-@media only screen and (max-width: 525px) {
-
+@media only screen and (max-width: 575px) {
     .all {
-        width: 550px;
+        width: 440px;
         height: 100%;
         margin: auto;
         background: #ffffff;
@@ -10,8 +9,8 @@
     }
 
     .menu {
-        width: 550px;
-        height: 40px;
+        width: 440px;
+        height: 45px;
         background: #191919;
     }
 
@@ -20,7 +19,7 @@
         height: 26px;
         margin: auto;
         margin-left: 25px;
-        padding-top: 6px;
+        padding-top: 8px;
     }
 
     .logo {
@@ -41,32 +40,34 @@
         float: right;
         margin-right: 23px;
     }
-  
 
     .main {
-        width: 550px;
-        height: 200px;
+        width: 440px;
+        height: 180px;
         background-size: 100%;
-        margin-top: -5px;
+
     }
 
     .m_img {
         max-width: 100%;
+        margin-top: -15px;
+        height: 200px;
     }
 
     .content {
-        width: 525px;
-        height: 9600px;
+
+        width: 363px;
+        height: 7020px;
         margin: auto;
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .title {
         width: 525px;
-        height: 70px;
+        height: 86px;
         color: #232323;
         font-family: 'Segoe UI';
-        font-size: 32px;
+        font-size: 26px;
         font-style: normal;
         line-height: 60px;
         font-weight: 700;
@@ -74,29 +75,29 @@
 
     .one {
         width: 525px;
-        height: 410px;
+        height: 310px;
     }
 
     .title1 {
 
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 21px;
+        font-size: 18px;
         font-style: normal;
         font-weight: 600;
-        line-height: 30px;
+        line-height: 24px;
         letter-spacing: 0.25px;
 
     }
 
     .one1_1 {
-        width: 524px;
-        height: 175px;
+        width: 363px;
+        height: 130px;
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 13px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 18px;
+        line-height: 15px;
         margin-top: 6px;
     }
 
@@ -107,8 +108,8 @@
 
 
     .two {
-        width: 524px;
-        height: 1000px;
+        width: 363px;
+        height: 690px;
         margin-top: 10px;
     }
 
@@ -117,11 +118,11 @@
         font-family: 'Segoe UI';
         color: #003265;
         margin-top: 12px;
-        font-size: 20px;
+        font-size: 18px;
         font-style: normal;
         font-weight: 600;
-        line-height: 25px;
-        width: 524px;
+        line-height: 24px;
+        width: 363px;
 
     }
 
@@ -129,63 +130,63 @@
 
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 14px;
+        font-size: 11px;
         font-style: normal;
-        line-height: 20px;
+        line-height: 16px;
         margin-top: 10px;
     }
 
     .three {
-        width: 524px;
-        height: 210px;
+        width: 363px;
+        height: 150px;
     }
 
     .four {
-        height: 360px;
-        width: 524px;
+        height: 260px;
+        width: 363px;
     }
 
     .fife {
-        height: 1300px;
-        width: 524px;
+        height: 950px;
+        width: 363px;
     }
 
     .six {
-        height: 230px;
-        width: 524px;
+        height: 170px;
+        width: 363px;
     }
 
 
     .seven {
-        height: 1220px;
-        width: 524px;
+        height: 820px;
+        width: 363px;
     }
 
     .eight {
-        height: 1370px;
-        width: 524px;
+        height: 980px;
+        width: 363px;
     }
 
     .eight1 {
-        height: 540px;
-        width: 524px;
+        height: 370px;
+        width: 363px;
     }
 
     .eight2 {
-        height: 724px;
-        width: 524px;
+        height: 363px;
+        width: 363px;
         float: none;
         margin-top: 10px;
     }
 
     .nine {
-        height: 555px;
-        width: 524px;
+        height: 375px;
+        width: 363px;
     }
 
 
     .title3 {
-        width: 524px;
+        width: 363px;
         color: #003265;
         font-family: 'Segoe UI';
         font-size: 18px;
@@ -202,30 +203,30 @@
         font-style: normal;
         font-weight: 500;
         line-height: 22px;
-        width: 524px;
+        width: 363px;
         height: 80px;
         margin-top: 20px;
 
     }
 
     .a {
-        width: 524px;
+        width: 363px;
         height: 330px;
     }
 
     .b {
-        width: 524px;
+        width: 363px;
         height: 60px;
     }
 
     .c {
-        width: 524px;
+        width: 363px;
         height: 150px;
     }
 
     .ten {
-        height: 320px;
-        width: 524px;
+        height: 250px;
+        width: 363px;
     }
 
 
@@ -237,22 +238,22 @@
 
     .eleven {
         margin-top: 22px;
-        width: 524px;
-        height: 1105px
+        width: 363px;
+        height: 792px
     }
 
     .eleven1 {
-        width: 524px;
+        width: 363px;
         height: 230px;
     }
 
     .e {
-        width: 524px;
+        width: 363px;
         height: 110px;
     }
 
     .eleven2 {
-        width: 524px;
+        width: 363px;
         height: 260px;
         float: none;
         margin-top: 10px;
@@ -260,70 +261,70 @@
 
     .twelve {
 
-        width: 524px;
-        height: 250px
+        width: 363px;
+        height: 190px
     }
 
     .thirteen {
-        width: 524px;
-        height: 540px
+        width: 363px;
+        height: 420px
     }
 
 
     .fourteen {
-        width: 524px;
-        height: 230px
+        width: 363px;
+        height: 190px
     }
 
     .fifteen {
-        width: 524px;
-        height: 170px
+        width: 363px;
+        height: 140px
     }
 
     .sixteen {
-        width: 524px;
-        height: 150px
+        width: 363px;
+        height: 140px
     }
 
     .seventeen {
-        width: 524px;
-        height: 170px
+        width: 363px;
+        height: 200px
     }
 
     .eightteen {
-        width: 524px;
-        height: 90px
+        width: 363px;
+        height: 120px
     }
 
     .footer {
         background-size: 100%;
-        width: 550px;
+        width: 440px;
         height: 120px;
         margin: auto;
-
     }
 
     .f_img {
         height: 120px;
-        width: 550px;
+        width: 440px;
 
 
     }
+
 
 
     .fife2 {
-        width: 500px;
+        width: 240px;
         height: 80px;
-        margin-left: 13px;
-        margin-top: -185px;
+        margin-left: 40px;
+        margin-top: -180px;
     }
 
     .fife_text1 {
-        width: 525px;
-        height: 100px;
+        width: 997px;
+        height: 60px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 24px;
+        font-size: 20px;
         font-style: normal;
         line-height: 66px;
 
@@ -334,56 +335,55 @@
         height: 80px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 11px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 16px;
+        line-height: 14px;
     }
 
-  .footer1 {
+    .footer1 {
 
-      width: 360px;
-      height: 25px;
-      margin-top: -65px;
-      float: right;
-      margin-right: 10px;
-      position: relative;
+        width: 300px;
+        height: 25px;
+        margin-top: -69px;
+        float: right;
+        margin-right: 10px;
+        position: relative;
 
-  }
+    }
 
-  .privacypolicy {
-      font-family: 'Segoe UI';
-      width: 170px;
-      height: 25px;
-      font-size: 10px;
-      letter-spacing: 0.5px;
-      float: left;
-      color: #FFF;
-  }
+    .privacypolicy {
+        font-family: 'Segoe UI';
+        width: 120px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: left;
+        color: #FFF;
+    }
 
 
 
-  .termsconditions {
-      font-family: 'Segoe UI';
-      width: 170px;
-      height: 25px;
-      font-size: 10px;
-      letter-spacing: 0.5px;
-      float: right;
-      color: #FFF;
-  }
+    .termsconditions {
+        font-family: 'Segoe UI';
+        width: 170px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: right;
+        color: #FFF;
+    }
 
     .l_img1 {
         width: 70px;
         height: 23px;
         margin: auto;
-        margin-left: 13px;
-        padding-top: 66px;
+        margin-left: 27px;
+        padding-top: 59px;
     }
 
-
     .f {
-        margin-top: 6px;
-        margin-left: 14px;
+        margin-top: -3px;
+        margin-left: 27px;
         color: #ffffff;
         font-family: 'Segoe UI';
         font-size: 6px;
@@ -391,4 +391,5 @@
         line-height: 35px;
 
     }
+
 }
