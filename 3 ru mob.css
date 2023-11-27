@@ -57,7 +57,7 @@
     .content {
 
         width: 363px;
-        height: 7020px;
+        height: 6780px;
         margin: auto;
         margin-top: 30px;
     }
@@ -75,7 +75,7 @@
 
     .one {
         width: 525px;
-        height: 310px;
+        height: 320px;
     }
 
     .title1 {
@@ -103,13 +103,13 @@
 
     .margin {
         float: none;
-        margin-top: 30px;
+        margin-top: 20px;
     }
 
 
     .two {
         width: 363px;
-        height: 690px;
+        height: 660px;
         margin-top: 10px;
     }
 
@@ -142,17 +142,17 @@
     }
 
     .four {
-        height: 260px;
+        height: 270px;
         width: 363px;
     }
 
     .fife {
-        height: 950px;
+        height: 840px;
         width: 363px;
     }
 
     .six {
-        height: 170px;
+        height: 190px;
         width: 363px;
     }
 
@@ -163,12 +163,12 @@
     }
 
     .eight {
-        height: 980px;
+        height: 930px;
         width: 363px;
     }
 
     .eight1 {
-        height: 370px;
+        height: 350px;
         width: 363px;
     }
 
@@ -225,7 +225,7 @@
     }
 
     .ten {
-        height: 250px;
+        height: 240px;
         width: 363px;
     }
 
@@ -239,12 +239,12 @@
     .eleven {
         margin-top: 22px;
         width: 363px;
-        height: 792px
+        height: 752px
     }
 
     .eleven1 {
         width: 363px;
-        height: 230px;
+        height: 250px;
     }
 
     .e {
@@ -262,18 +262,18 @@
     .twelve {
 
         width: 363px;
-        height: 190px
+        height: 210px
     }
 
     .thirteen {
         width: 363px;
-        height: 420px
+        height: 390px
     }
 
 
     .fourteen {
         width: 363px;
-        height: 190px
+        height: 180px
     }
 
     .fifteen {
@@ -342,20 +342,21 @@
 
     .footer1 {
 
-        width: 300px;
+
+        width: 340px;
         height: 25px;
-        margin-top: -69px;
+        margin-top: -65px;
         float: right;
-        margin-right: 10px;
+        margin-right: 0px;
         position: relative;
 
     }
 
     .privacypolicy {
         font-family: 'Segoe UI';
-        width: 120px;
+        width: 150px;
         height: 25px;
-        font-size: 14px;
+        font-size: 9px;
         letter-spacing: 0.5px;
         float: left;
         color: #FFF;
@@ -367,7 +368,7 @@
         font-family: 'Segoe UI';
         width: 170px;
         height: 25px;
-        font-size: 14px;
+        font-size: 9px;
         letter-spacing: 0.5px;
         float: right;
         color: #FFF;
@@ -378,11 +379,11 @@
         height: 23px;
         margin: auto;
         margin-left: 27px;
-        padding-top: 59px;
+        padding-top: 61px;
     }
 
     .f {
-        margin-top: -3px;
+        margin-top: 1px;
         margin-left: 27px;
         color: #ffffff;
         font-family: 'Segoe UI';
