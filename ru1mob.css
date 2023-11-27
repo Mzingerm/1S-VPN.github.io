@@ -231,12 +231,12 @@ html {
     .onetext {
         width: 300px;
         height: 160px;
-        margin-top: -125px;
-        margin-left: 170px;
+        margin-top: -115px;
+        margin-left: 175px;
     }
 
     .one_text1 {
-        width: 290px;
+        width: 200px;
         height: 40px;
         color: #000;
         font-family: 'Segoe UI';
@@ -246,7 +246,7 @@ html {
     }
 
     .one_text2 {
-        width:190px;
+        width: 210px;
         height: 70px;
         margin-top: 20px;
         color: #000;
@@ -255,7 +255,7 @@ html {
         font-style: normal;
         line-height: 14px;
         float: right;
-        margin-top: -196px;
+        margin-top: -186px;
         margin-right: 90px;
     }
 
@@ -388,7 +388,7 @@ html {
         margin-top: 6px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 9px;
+        font-size: 10px;
         font-style: normal;
         line-height: 14px;
     }
@@ -437,7 +437,7 @@ html {
         height: 80px;
         color: #000;
         font-family: 'Segoe UI';
-        font-size: 10px;
+        font-size: 9px;
         font-style: normal;
         line-height: 14px;
     }
