@@ -252,7 +252,7 @@ width: 165px;
     line-height: 14px;
     float:right ;
     margin-top: -200px;
-    margin-right: 88px;
+    margin-right: 90px;
 }
 
 .two {
@@ -281,7 +281,7 @@ margin-right: 20px;
 }
 
 .two_text1 {
-    width: 200px;
+    width: 170px;
         height: 46px;
         color: #000;
         font-family: 'Segoe UI';
@@ -391,14 +391,14 @@ width: 180px;
 
 .footer {
     background-size: 100%;
-    width: 440px;
+    width: 430px;
     height: 120px;
     margin: auto;
 }
 
 .f_img {
     height: 120px;
-    width: 440px;
+    width: 430px;
 
 
 }
@@ -408,7 +408,7 @@ width: 180px;
 .fife2 {
     width: 240px;
     height: 80px;
-    margin-left: 40px;
+    margin-left: 30px;
     margin-top: -140px;
 }
 
