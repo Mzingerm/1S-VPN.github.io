@@ -1,124 +1,127 @@
-@media only screen and (max-width: 525px) {
-
+@media only screen and (max-width: 575px) {
     .all {
-        width: 550px;
+        width: 440px;
         height: 100%;
         margin: auto;
         background: #ffffff;
         margin-left: -10px;
-            margin-top: -10px;
+        margin-top: -10px;
     }
 
     .menu {
-        width: 550px;
-        height: 40px;
+        width: 440px;
+        height: 45px;
         background: #191919;
     }
-  .l_img {
-      width: 80px;
-      height: 26px;
-      margin: auto;
-      margin-left: 25px;
-      padding-top: 6px;
-  }
 
-  .logo {
-      margin: 0px auto;
+    .l_img {
+        width: 80px;
+        height: 26px;
+        margin: auto;
+        margin-left: 25px;
+        padding-top: 8px;
+    }
 
-  }
+    .logo {
+        margin: 0px auto;
 
-  .star {
-      margin: 0px auto;
-      margin-top: -25px;
+    }
 
-  }
+    .star {
+        margin: 0px auto;
+        margin-top: -25px;
 
-  .s_img {
-      width: 74px;
-      height: 15px;
-      margin: auto;
-      float: right;
-      margin-right: 23px;
-  }
+    }
+
+    .s_img {
+        width: 74px;
+        height: 15px;
+        margin: auto;
+        float: right;
+        margin-right: 23px;
+    }
 
     .main {
-        width: 550px;
-        height: 200px;
+        width: 440px;
+        height: 180px;
         background-size: 100%;
-        margin-top: -5px;
+
     }
 
     .m_img {
         max-width: 100%;
+        margin-top: -15px;
+        height: 200px;
     }
 
     .content {
-        width: 525px;
-        height: 8870px;
+
+        width: 363px;
+        height: 6700px;
         margin: auto;
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .title {
-        width: 525px;
+        width: 545px;
         height: 86px;
         color: #232323;
         font-family: 'Segoe UI';
-        font-size: 34px;
+        font-size: 26px;
         font-style: normal;
         line-height: 60px;
         font-weight: 700;
     }
 
     .one {
-        width: 525px;
-        height: 630px;
+        width: 363px;
+        height: 360px;
     }
 
     .one1 {
-        width: 525px;
-        height: 220px;
+        width: 363px;
+        height: 120px;
     }
 
     .title1 {
 
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 21px;
+        font-size: 15px;
         font-style: normal;
         font-weight: 600;
-        line-height: 30px;
+        line-height: 20px;
         letter-spacing: 0.25px;
 
     }
 
     .one1_1 {
-        width: 525px;
-        height: 220px;
+        width: 363px;
+        height: 130px;
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 13px;
+        font-size: 8px;
         font-style: normal;
-        line-height: 18px;
+        line-height: 11px;
         margin-top: 6px;
     }
 
     .one2 {
-        width: 525px;
-        height: 370px;
+        width: 363px;
+        height: 100px;
         color: #222E3A;
         font-family: 'Segoe UI';
-        font-size: 13px;
+        font-size: 8px;
         font-style: normal;
-        font-weight: 400;
-        line-height: 18px;
+        font-weight: 363;
+        line-height: 11px;
         float: none;
-        margin-top: 40px;
+        margin-top: 50px;
     }
 
     .two {
-        width: 525px;
-        height: 1220px;
+        width: 363px;
+        height: 860px;
         margin-top: 30px;
     }
 
@@ -126,12 +129,12 @@
 
         font-family: 'Segoe UI';
         color: #003265;
-        margin-top: 12px;
-        font-size: 20px;
+        margin-top: 14px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 600;
-        line-height: 25px;
-        width: 525px;
+        line-height: 18px;
+        width: 363px;
 
     }
 
@@ -139,116 +142,115 @@
 
         color: #002142;
         font-family: 'Segoe UI';
-        font-size: 14px;
+        font-size: 10px;
         font-style: normal;
-        line-height: 20px;
+        line-height: 15px;
         margin-top: 10px;
     }
 
     .three {
-        width: 525px;
-        height: 570px;
+        width: 363px;
+        height: 403px;
     }
 
     .four {
-        height: 340px;
-        width: 525px;
+        height: 245px;
+        width: 360px;
     }
 
     .fife {
-        height: 280px;
-        width: 525px;
+        height: 210px;
+        width: 363px;
     }
 
     .six {
-        height: 135px;
-        width: 525px;
+        height: 103px;
+        width: 363px;
     }
 
     .seven {
-        height: 290px;
-        width: 525px;
+        height: 210px;
+        width: 363px;
     }
 
     .eight {
-        height: 630px;
-        width: 525px;
+        height: 450px;
+        width: 363px;
     }
 
     .nine {
-        height: 1030px;
-        width: 525px;
+        height: 832px;
+        width: 363px;
     }
 
     .nine1 {
-        width: 525px;
-        height: 570px;
+        width: 363px;
+        height: 440px;
     }
 
     .nine2 {
-        width: 525px;
-        height: 430px;
+        width: 363px;
+        height: 330px;
         float: none;
-        margin-top: 0px;
+        margin-top: 30px;
     }
 
     .title3 {
-        width: 525px;
+        width: 363px;
         color: #003265;
         font-family: 'Segoe UI';
-        font-size: 18px;
+        font-size: 15px;
         font-style: normal;
         font-weight: 500;
-        line-height: 22px;
-        margin-top: 8px;
+        line-height: 19px;
+        margin-top: 10px;
     }
 
     .title4 {
         color: #1B4876;
         font-family: 'Segoe UI';
-        font-size: 18px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 500;
-        line-height: 22px;
-        width: 525px;
-        height: 100px;
+        line-height: 18px;
+        width: 363px;
+        height: 95px;
         margin-top: 20px;
 
     }
 
     .a {
-        width: 525px;
-        height: 330px;
+        width: 363px;
+        height: 340px;
     }
 
     .b {
-        width: 525px;
+        width: 363px;
         height: 60px;
     }
 
     .c {
-        width: 525px;
-        height: 150px;
+        width: 363px;
+        height: 100px;
     }
 
     .ten {
-        height: 430px;
-        width: 525px;
+        height: 360px;
+        width: 363px;
     }
 
     .ten1 {
-        width: 525px;
-        height: 235px;
+        width: 363px;
+        height: 205px;
     }
 
     .ten2 {
-        width: 525px;
-        height: 205px;
+        width: 363px;
+        height: 155px;
         float: none;
-        margin-top: 10px;
+        margin-top: 5px;
     }
 
-    
 
     .d {
         font-weight: 500;
@@ -256,23 +258,23 @@
     }
 
     .eleven {
-        margin-top: 30px;
-        width: 525px;
-        height: 610px
+        margin-top: 40px;
+        width: 363px;
+        height: 530px
     }
 
     .eleven1 {
-        width: 525px;
-        height: 270px;
+        width: 363px;
+        height: 230px;
     }
 
     .e {
-        width: 525px;
-        height: 146px;
+        width: 363px;
+        height: 100px;
     }
 
     .eleven2 {
-        width: 525px;
+        width: 363px;
         height: 260px;
         float: none;
         margin-top: 10px;
@@ -280,143 +282,136 @@
 
     .twelve {
 
-        width: 525px;
-        height: 270px
+        width: 363px;
+        height: 200px
     }
 
     .thirteen {
-        width: 525px;
-        height: 720px
+        width: 363px;
+        height: 490px
     }
 
-    
 
     .fourteen {
-        width: 525px;
-        height: 380px
+        width: 363px;
+        height: 300px
     }
 
     .fifteen {
-        width: 525px;
-        height: 300px
+        width: 363px;
+        height: 230px
     }
 
     .sixteen {
-        width: 525px;
-        height: 300px
+        width: 363px;
+        height: 250px
     }
 
     .seventeen {
-        width: 525px;
-        height: 300px
+        width: 363px;
+        height: 225px
     }
 
     .eightteen {
-        width: 525px;
-        height: 170px
+        width: 363px;
+        height: 120px
     }
 
- 
 
 
-.g{
-font-size: 18px;
-width: 350px;
-}
+    .footer {
+        background-size: 100%;
+        width: 440px;
+        height: 120px;
+        margin: auto;
+    }
 
-.footer {
-    background-size: 100%;
-    width: 550px;
-    height: 120px;
-    margin: auto;
-
-}
-
-.f_img {
-    height: 120px;
-    width: 550px;
+    .f_img {
+        height: 120px;
+        width: 440px;
 
 
-}
-
-
-.fife2 {
-    width: 240px;
-    height: 80px;
-    margin-left: 13px;
-    margin-top: -185px;
-}
-
-.fife_text1 {
-    width: 525px;
-    height: 100px;
-    color: #000;
-    font-family: 'Segoe UI';
-    font-size: 24px;
-    font-style: normal;
-    line-height: 66px;
-
-}
-
-.fife_text2 {
-    width: 240px;
-    height: 80px;
-    color: #000;
-    font-family: 'Segoe UI';
-    font-size: 11px;
-    font-style: normal;
-    line-height: 16px;
-}
-
-  .footer1 {
-
-      width: 360px;
-      height: 25px;
-      margin-top: -65px;
-      float: right;
-      margin-right: 10px;
-      position: relative;
-
-  }
-
-  .privacypolicy {
-      font-family: 'Segoe UI';
-      width: 170px;
-      height: 25px;
-      font-size: 10px;
-      letter-spacing: 0.5px;
-      float: left;
-      color: #FFF;
-  }
+    }
 
 
 
-  .termsconditions {
-      font-family: 'Segoe UI';
-      width: 170px;
-      height: 25px;
-      font-size: 10px;
-      letter-spacing: 0.5px;
-      float: right;
-      color: #FFF;
-  }
+    .fife2 {
+        width: 240px;
+        height: 80px;
+        margin-left: 40px;
+        margin-top: -180px;
+    }
 
-.l_img1 {
-    width: 70px;
-    height: 23px;
-    margin: auto;
-    margin-left: 13px;
-    padding-top: 66px;
-}
-}
+    .fife_text1 {
+        width: 997px;
+        height: 60px;
+        color: #000;
+        font-family: 'Segoe UI';
+        font-size: 20px;
+        font-style: normal;
+        line-height: 66px;
 
-.f {
-    margin-top: 6px;
-    margin-left: 14px;
-    color: #ffffff;
-    font-family: 'Segoe UI';
-    font-size: 6px;
-    font-style: normal;
-    line-height: 35px;
+    }
 
+    .fife_text2 {
+        width: 240px;
+        height: 80px;
+        color: #000;
+        font-family: 'Segoe UI';
+        font-size: 10px;
+        font-style: normal;
+        line-height: 14px;
+    }
+
+    .footer1 {
+
+        width: 300px;
+        height: 25px;
+        margin-top: -69px;
+        float: right;
+        margin-right: 10px;
+        position: relative;
+
+    }
+
+    .privacypolicy {
+        font-family: 'Segoe UI';
+        width: 120px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: left;
+        color: #FFF;
+    }
+
+
+
+    .termsconditions {
+        font-family: 'Segoe UI';
+        width: 170px;
+        height: 25px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        float: right;
+        color: #FFF;
+    }
+
+    .l_img1 {
+        width: 70px;
+        height: 23px;
+        margin: auto;
+        margin-left: 27px;
+        padding-top: 59px;
+    }
+
+    .f {
+        margin-top: -3px;
+        margin-left: 27px;
+        color: #ffffff;
+        font-family: 'Segoe UI';
+        font-size: 6px;
+        font-style: normal;
+        line-height: 35px;
+
+    }
 }
