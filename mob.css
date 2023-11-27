@@ -4,15 +4,15 @@ html {
 
         width: 100%;
             max-width: 100%;
-    overflow-x: scroll;
+    overflow-x: hidden;
         
        
     }
 
     body {
-        width: 40%;
-        max-width: 400%;
-    overflow-x: scroll;
+        width: 100%;
+        max-width: 100%;
+    overflow-x: hidden;
       
         margin-left: 0px;
             margin-top: -5px;
